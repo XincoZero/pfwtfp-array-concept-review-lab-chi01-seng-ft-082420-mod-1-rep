@@ -4,6 +4,7 @@ def using_max(my_array)
 end
 
 def find_nth_element(my_array)
+  my_array.(8)
 end
 
 def flatten_nested_arrays(my_array)
